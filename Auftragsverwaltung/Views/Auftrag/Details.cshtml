@@ -1,0 +1,21 @@
+﻿@model Auftrag
+@{
+    ViewData["Title"] = "Auftrag";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Auftrag</h1>
+</div>
+
+<form asp-action="UpdateAuftrag" id="edit_form">
+    <div class="form-vertical">
+        <hr />
+        <div asp-validation-summary="All" class="text-danger"></div>
+
+        @Html.EditorForModel()
+
+        <div class="form-group">
+            <button type="submit" class="btn btn-outline-dark">Speichern</button>
+        </div>
+    </div>
+</form>

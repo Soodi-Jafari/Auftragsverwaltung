@@ -1,0 +1,9 @@
+﻿CREATE TABLE [dbo].[Lieferant]
+(
+	[Id] INT NOT NULL IDENTITY(1,1) PRIMARY KEY,
+    [Name] NVARCHAR(100) NULL, 
+    [Strasse] NVARCHAR(100) NULL, 
+    [Plz] NVARCHAR(10) NULL, 
+    [Ort] NVARCHAR(100) NULL, 
+    [Telefon] NVARCHAR(100) NULL
+)

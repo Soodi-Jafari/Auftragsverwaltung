@@ -1,0 +1,25 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[Artikel] (Table)
+       [dbo].[Auftrag] (Table)
+       [dbo].[AuftragsPositionen] (Table)
+       [dbo].[Kunde] (Table)
+       [dbo].[Lieferant] (Table)
+       [dbo].[Rechnung] (Table)
+       [dbo].[FK_Artikel_Lieferant] (Foreign Key)
+       [dbo].[FK_Auftrag_Kunde] (Foreign Key)
+       [dbo].[FK_Auftrag_Rechnung] (Foreign Key)
+       [dbo].[FK_AuftragsPositionen_Auftrag] (Foreign Key)
+       [dbo].[FK_AuftragsPositionen_Artikel] (Foreign Key)
+
+** Supporting actions

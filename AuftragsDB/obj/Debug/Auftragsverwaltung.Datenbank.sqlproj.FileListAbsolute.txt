@@ -1,0 +1,17 @@
+D:\Tasks\assistancepartner\Auftragsverwaltung\AuftragsDB\bin\Debug\Auftragsverwaltung.Datenbank.dacpac
+D:\Tasks\assistancepartner\Auftragsverwaltung\AuftragsDB\bin\Debug\AuftragsDB.dll
+D:\Tasks\assistancepartner\Auftragsverwaltung\AuftragsDB\bin\Debug\AuftragsDB.pdb
+D:\Tasks\assistancepartner\Auftragsverwaltung\AuftragsDB\obj\Debug\Auftragsverwaltung.Datenbank.sqlprojAssemblyReference.cache
+D:\Tasks\assistancepartner\Auftragsverwaltung\AuftragsDB\obj\Debug\AuftragsDB.dll
+D:\Tasks\assistancepartner\Auftragsverwaltung\AuftragsDB\obj\Debug\AuftragsDB.pdb
+\\Mac\Home\Documents\projects\Auftragsverwaltung\Auftragsverwaltung\AuftragsDB\bin\Debug\Auftragsverwaltung.Datenbank.dacpac
+\\Mac\Home\Documents\projects\Auftragsverwaltung\Auftragsverwaltung\AuftragsDB\bin\Debug\AuftragsDB.dll
+\\Mac\Home\Documents\projects\Auftragsverwaltung\Auftragsverwaltung\AuftragsDB\bin\Debug\AuftragsDB.pdb
+\\Mac\Home\Documents\projects\Auftragsverwaltung\Auftragsverwaltung\AuftragsDB\obj\Debug\AuftragsDB.dll
+\\Mac\Home\Documents\projects\Auftragsverwaltung\Auftragsverwaltung\AuftragsDB\obj\Debug\AuftragsDB.pdb
+D:\Tasks\assistancepartner\1\Auftragsverwaltung\Auftragsverwaltung\AuftragsDB\bin\Debug\Auftragsverwaltung.Datenbank.dacpac
+D:\Tasks\assistancepartner\1\Auftragsverwaltung\Auftragsverwaltung\AuftragsDB\bin\Debug\AuftragsDB.dll
+D:\Tasks\assistancepartner\1\Auftragsverwaltung\Auftragsverwaltung\AuftragsDB\bin\Debug\AuftragsDB.pdb
+D:\Tasks\assistancepartner\1\Auftragsverwaltung\Auftragsverwaltung\AuftragsDB\obj\Debug\Auftragsverwaltung.Datenbank.sqlprojAssemblyReference.cache
+D:\Tasks\assistancepartner\1\Auftragsverwaltung\Auftragsverwaltung\AuftragsDB\obj\Debug\AuftragsDB.dll
+D:\Tasks\assistancepartner\1\Auftragsverwaltung\Auftragsverwaltung\AuftragsDB\obj\Debug\AuftragsDB.pdb

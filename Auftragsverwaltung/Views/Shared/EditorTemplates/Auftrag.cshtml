@@ -1,0 +1,39 @@
+﻿@model Auftrag
+@{
+}
+
+<input type="hidden" asp-for="Id" />
+<input type="hidden" asp-for="KundeId" />
+
+<div class="form-group col-3">
+    <label asp-for="Datum" class="control-label"></label>
+    <div>
+        <input asp-for="Datum" class="form-control" />
+        <span asp-validation-for="Datum" class="text-danger"></span>
+    </div>
+</div>
+
+<div class="form-group col-3">
+    <label asp-for="Betrag" class="control-label"></label>
+    <div>
+        <input asp-for="Betrag" class="form-control" />
+        <span asp-validation-for="Betrag" class="text-danger"></span>
+    </div>
+</div>
+
+<div class="form-group col-3">
+    <label asp-for="IstBezahlt" class="control-label"></label>
+    <div>
+        @Html.DisplayFor(model => model.IstBezahlt)
+    </div>
+</div>
+
+<div class="col-12">
+    @for (int i = 0; i < Model.AuftragsPositionen.Count; i++)
+    {
+        <div class="col-12">
+            @Html.EditorFor(model => model.AuftragsPositionen.ToList()[i])
+        </div>
+    }
+</div>
+
